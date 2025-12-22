@@ -1,0 +1,10 @@
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/avif_serialize-29296d1c625fd613.d: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libavif_serialize-29296d1c625fd613.rlib: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libavif_serialize-29296d1c625fd613.rmeta: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs
+
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs:

@@ -1,0 +1,10 @@
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/bitstream_io-8dccbf45046fbe3b.d: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/huffman.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/read.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/write.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libbitstream_io-8dccbf45046fbe3b.rlib: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/huffman.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/read.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/write.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libbitstream_io-8dccbf45046fbe3b.rmeta: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/huffman.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/read.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/write.rs
+
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/lib.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/huffman.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/read.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitstream-io-4.9.0/src/write.rs:

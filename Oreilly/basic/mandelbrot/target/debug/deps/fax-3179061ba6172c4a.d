@@ -1,0 +1,11 @@
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/fax-3179061ba6172c4a.d: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libfax-3179061ba6172c4a.rlib: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libfax-3179061ba6172c4a.rmeta: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs
+
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs:

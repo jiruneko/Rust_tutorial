@@ -1,0 +1,11 @@
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/v_frame-69c9952b2aab7888.d: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/frame.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/math.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/pixel.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/plane.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libv_frame-69c9952b2aab7888.rlib: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/frame.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/math.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/pixel.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/plane.rs
+
+/Users/nagatsukakenji/Rust_tutorial/Oreilly/basic/mandelbrot/target/debug/deps/libv_frame-69c9952b2aab7888.rmeta: /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/lib.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/frame.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/math.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/pixel.rs /Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/plane.rs
+
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/lib.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/frame.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/math.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/pixel.rs:
+/Users/nagatsukakenji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.9/src/plane.rs:
